@@ -1,1 +1,1 @@
-# Neuro-Symbolic-QVA
+# Neuro-Symbolic-VQA
